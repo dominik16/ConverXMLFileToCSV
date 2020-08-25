@@ -1,0 +1,495 @@
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ExportReportToXml.exe
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.deps.json
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.runtimeconfig.json
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.runtimeconfig.dev.json
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.pdb
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\testhost.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Management.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ExportReportToXml.dll
+E:\Klon\dombie-net-eksport\UnitTests\bin\Debug\netcoreapp3.1\ExportReportToXml.pdb
+E:\Klon\dombie-net-eksport\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csprojAssemblyReference.cache
+E:\Klon\dombie-net-eksport\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfoInputs.cache
+E:\Klon\dombie-net-eksport\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfo.cs
+E:\Klon\dombie-net-eksport\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CoreCompileInputs.cache
+E:\Klon\dombie-net-eksport\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CopyComplete
+E:\Klon\dombie-net-eksport\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.dll
+E:\Klon\dombie-net-eksport\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.pdb
+E:\Klon\dombie-net-eksport\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.genruntimeconfig.cache
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ExportReportToXml.exe
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.deps.json
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.runtimeconfig.json
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.runtimeconfig.dev.json
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.pdb
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\testhost.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Management.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ExportReportToXml.dll
+E:\Klon\UnitTests\bin\Debug\netcoreapp3.1\ExportReportToXml.pdb
+E:\Klon\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csprojAssemblyReference.cache
+E:\Klon\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfoInputs.cache
+E:\Klon\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfo.cs
+E:\Klon\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CoreCompileInputs.cache
+E:\Klon\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CopyComplete
+E:\Klon\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.dll
+E:\Klon\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.pdb
+E:\Klon\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.genruntimeconfig.cache
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ExportReportToXml.exe
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.deps.json
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.runtimeconfig.json
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.runtimeconfig.dev.json
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.pdb
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\testhost.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Management.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ExportReportToXml.dll
+E:\Euvic 17.08\UnitTests\bin\Debug\netcoreapp3.1\ExportReportToXml.pdb
+E:\Euvic 17.08\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csprojAssemblyReference.cache
+E:\Euvic 17.08\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfoInputs.cache
+E:\Euvic 17.08\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfo.cs
+E:\Euvic 17.08\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CoreCompileInputs.cache
+E:\Euvic 17.08\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CopyComplete
+E:\Euvic 17.08\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.dll
+E:\Euvic 17.08\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.pdb
+E:\Euvic 17.08\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.genruntimeconfig.cache

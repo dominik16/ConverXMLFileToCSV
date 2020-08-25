@@ -1,0 +1,810 @@
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.exe
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.deps.json
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.runtimeconfig.json
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.runtimeconfig.dev.json
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.pdb
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.SystemEvents.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.CodeDom.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Composition.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Composition.Registration.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Configuration.ConfigurationManager.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.Odbc.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.OleDb.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.SqlClient.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.EventLog.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.PerformanceCounter.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.DirectoryServices.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.DirectoryServices.AccountManagement.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.DirectoryServices.Protocols.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Common.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Packaging.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Ports.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Management.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.ServiceModel.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Context.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Caching.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Pkcs.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.ProtectedData.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Xml.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Permissions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Duplex.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Http.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.NetTcp.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Primitives.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Security.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Syndication.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceProcess.ServiceController.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.AccessControl.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Windows.Extensions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\sni.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.CSharp.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.Core.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Primitives.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Registry.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.AppContext.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Buffers.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.Concurrent.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.Immutable.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.NonGeneric.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.Specialized.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Annotations.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.DataAnnotations.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.EventBasedAsync.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Primitives.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.TypeConverter.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Configuration.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Console.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Core.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.Common.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.DataSetExtensions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Contracts.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Debug.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.DiagnosticSource.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.FileVersionInfo.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Process.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.StackTrace.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tools.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TraceSource.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tracing.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Primitives.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Drawing.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Dynamic.Runtime.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Calendars.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Extensions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Globalization.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.Brotli.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.FileSystem.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.ZipFile.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.AccessControl.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.DriveInfo.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Primitives.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Watcher.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.IsolatedStorage.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.MemoryMappedFiles.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.AccessControl.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.UnmanagedMemoryStream.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.Expressions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.Parallel.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.Queryable.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Memory.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Http.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.HttpListener.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Mail.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.NameResolution.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.NetworkInformation.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Ping.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Primitives.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Requests.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Security.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.ServicePoint.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Sockets.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebClient.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebHeaderCollection.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebProxy.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.Client.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Numerics.Vectors.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Numerics.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ObjectModel.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.DataContractSerialization.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.Uri.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.Linq.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.DispatchProxy.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.ILGeneration.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.Lightweight.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Extensions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Metadata.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Primitives.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.TypeExtensions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Resources.Reader.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Resources.ResourceManager.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Resources.Writer.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.VisualC.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Extensions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Handles.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Intrinsics.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Loader.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Numerics.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Formatters.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Json.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Primitives.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Xml.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.AccessControl.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Claims.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Algorithms.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Cng.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Csp.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Encoding.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.OpenSsl.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Primitives.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.X509Certificates.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.Windows.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.SecureString.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Web.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceProcess.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.CodePages.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.Extensions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encodings.Web.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Json.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.RegularExpressions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Channels.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Overlapped.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Dataflow.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Extensions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Parallel.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Thread.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.ThreadPool.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Timer.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Transactions.Local.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Transactions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ValueTuple.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Web.HttpUtility.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Web.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Windows.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.Linq.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.ReaderWriter.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.Serialization.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XDocument.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.XDocument.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlDocument.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlSerializer.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\WindowsBase.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscorlib.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\netstandard.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\SOS_README.md
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.CoreLib.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-console-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-debug-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-2-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l2-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-handle-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-heap-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-localization-l1-2-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-memory-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-profile-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-string-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-2-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-util-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-math-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-private-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-process-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-string-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-time-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\clrcompression.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\clretwrc.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\clrjit.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\coreclr.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\dbgshim.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\hostfxr.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\hostpolicy.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscordaccore.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscordbi.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscorrc.debug.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscorrc.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ucrtbase.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.csprojAssemblyReference.cache
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.AssemblyInfoInputs.cache
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.AssemblyInfo.cs
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.csproj.CopyComplete
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.pdb
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscordaccore_amd64_amd64_4.700.20.26901.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.csproj.CoreCompileInputs.cache
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.genruntimeconfig.cache
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.exe
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.deps.json
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.runtimeconfig.json
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.runtimeconfig.dev.json
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.pdb
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.SystemEvents.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.CodeDom.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Composition.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Composition.Registration.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Configuration.ConfigurationManager.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.Odbc.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.OleDb.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.SqlClient.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.EventLog.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.PerformanceCounter.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.DirectoryServices.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.DirectoryServices.AccountManagement.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.DirectoryServices.Protocols.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Common.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Packaging.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Ports.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Management.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.ServiceModel.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Context.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Caching.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Pkcs.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.ProtectedData.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Xml.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Permissions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Duplex.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Http.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.NetTcp.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Primitives.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Security.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Syndication.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceProcess.ServiceController.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.AccessControl.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Windows.Extensions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\sni.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.CSharp.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.Core.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Primitives.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Registry.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.AppContext.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Buffers.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.Concurrent.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.Immutable.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.NonGeneric.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.Specialized.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Annotations.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.DataAnnotations.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.EventBasedAsync.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Primitives.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.TypeConverter.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Configuration.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Console.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Core.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.Common.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.DataSetExtensions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Contracts.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Debug.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.DiagnosticSource.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.FileVersionInfo.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Process.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.StackTrace.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tools.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TraceSource.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tracing.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Primitives.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Drawing.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Dynamic.Runtime.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Calendars.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Extensions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Globalization.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.Brotli.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.FileSystem.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.ZipFile.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.AccessControl.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.DriveInfo.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Primitives.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Watcher.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.IsolatedStorage.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.MemoryMappedFiles.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.AccessControl.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.UnmanagedMemoryStream.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.Expressions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.Parallel.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.Queryable.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Memory.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Http.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.HttpListener.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Mail.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.NameResolution.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.NetworkInformation.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Ping.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Primitives.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Requests.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Security.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.ServicePoint.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Sockets.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebClient.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebHeaderCollection.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebProxy.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.Client.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Numerics.Vectors.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Numerics.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ObjectModel.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.DataContractSerialization.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.Uri.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.Linq.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.DispatchProxy.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.ILGeneration.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.Lightweight.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Extensions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Metadata.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Primitives.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.TypeExtensions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Resources.Reader.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Resources.ResourceManager.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Resources.Writer.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.VisualC.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Extensions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Handles.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Intrinsics.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Loader.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Numerics.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Formatters.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Json.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Primitives.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Xml.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.AccessControl.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Claims.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Algorithms.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Cng.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Csp.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Encoding.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.OpenSsl.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Primitives.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.X509Certificates.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.Windows.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.SecureString.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Web.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceProcess.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.CodePages.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.Extensions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encodings.Web.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Json.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.RegularExpressions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Channels.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Overlapped.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Dataflow.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Extensions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Parallel.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Thread.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.ThreadPool.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Timer.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Transactions.Local.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Transactions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ValueTuple.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Web.HttpUtility.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Web.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Windows.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.Linq.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.ReaderWriter.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.Serialization.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XDocument.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.XDocument.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlDocument.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlSerializer.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\WindowsBase.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscorlib.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\netstandard.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\SOS_README.md
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.CoreLib.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-console-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-debug-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-2-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l2-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-handle-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-heap-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-localization-l1-2-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-memory-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-profile-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-string-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-2-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-util-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-math-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-private-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-process-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-string-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-time-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\clrcompression.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\clretwrc.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\clrjit.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\coreclr.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\dbgshim.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\hostfxr.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\hostpolicy.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscordaccore.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscordaccore_amd64_amd64_4.700.20.26901.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscordbi.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscorrc.debug.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscorrc.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ucrtbase.dll
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.csprojAssemblyReference.cache
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.AssemblyInfoInputs.cache
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.AssemblyInfo.cs
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.csproj.CoreCompileInputs.cache
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.csproj.CopyComplete
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.dll
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.pdb
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.genruntimeconfig.cache
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.exe
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.deps.json
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.runtimeconfig.json
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.runtimeconfig.dev.json
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ExportReportToXml.pdb
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.SystemEvents.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.CodeDom.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Composition.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Composition.Registration.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Configuration.ConfigurationManager.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.Odbc.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.OleDb.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.SqlClient.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.EventLog.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.PerformanceCounter.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.DirectoryServices.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.DirectoryServices.AccountManagement.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.DirectoryServices.Protocols.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Common.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Packaging.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Ports.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Management.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.ServiceModel.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Context.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Caching.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Pkcs.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.ProtectedData.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Xml.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Permissions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Duplex.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Http.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.NetTcp.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Primitives.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Security.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Syndication.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceProcess.ServiceController.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.AccessControl.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Windows.Extensions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\sni.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.CSharp.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.Core.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Primitives.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Registry.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.AppContext.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Buffers.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.Concurrent.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.Immutable.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.NonGeneric.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.Specialized.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Collections.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Annotations.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.DataAnnotations.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.EventBasedAsync.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Primitives.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.TypeConverter.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Configuration.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Console.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Core.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.Common.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.DataSetExtensions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Data.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Contracts.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Debug.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.DiagnosticSource.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.FileVersionInfo.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Process.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.StackTrace.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tools.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TraceSource.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tracing.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Primitives.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Drawing.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Dynamic.Runtime.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Calendars.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Extensions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Globalization.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.Brotli.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.FileSystem.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.ZipFile.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.AccessControl.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.DriveInfo.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Primitives.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Watcher.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.IsolatedStorage.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.MemoryMappedFiles.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.AccessControl.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.UnmanagedMemoryStream.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.IO.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.Expressions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.Parallel.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.Queryable.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Linq.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Memory.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Http.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.HttpListener.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Mail.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.NameResolution.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.NetworkInformation.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Ping.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Primitives.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Requests.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Security.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.ServicePoint.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.Sockets.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebClient.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebHeaderCollection.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebProxy.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.Client.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Net.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Numerics.Vectors.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Numerics.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ObjectModel.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.DataContractSerialization.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.Uri.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.Linq.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.DispatchProxy.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.ILGeneration.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.Lightweight.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Extensions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Metadata.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Primitives.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.TypeExtensions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Reflection.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Resources.Reader.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Resources.ResourceManager.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Resources.Writer.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.VisualC.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Extensions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Handles.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Intrinsics.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Loader.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Numerics.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Formatters.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Json.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Primitives.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Xml.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Runtime.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.AccessControl.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Claims.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Algorithms.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Cng.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Csp.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Encoding.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.OpenSsl.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Primitives.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.X509Certificates.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.Windows.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.SecureString.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Security.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Web.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ServiceProcess.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.CodePages.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.Extensions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Encodings.Web.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.Json.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Text.RegularExpressions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Channels.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Overlapped.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Dataflow.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Extensions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Parallel.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Thread.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.ThreadPool.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.Timer.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Threading.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Transactions.Local.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Transactions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.ValueTuple.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Web.HttpUtility.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Web.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Windows.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.Linq.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.ReaderWriter.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.Serialization.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XDocument.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.XDocument.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlDocument.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlSerializer.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Xml.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\WindowsBase.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscorlib.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\netstandard.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\SOS_README.md
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\System.Private.CoreLib.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-console-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-debug-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-2-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l2-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-handle-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-heap-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-localization-l1-2-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-memory-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-profile-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-string-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-2-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-util-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-math-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-private-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-process-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-string-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-time-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\clrcompression.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\clretwrc.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\clrjit.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\coreclr.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\dbgshim.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\hostfxr.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\hostpolicy.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscordaccore.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscordaccore_amd64_amd64_4.700.20.26901.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscordbi.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscorrc.debug.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\mscorrc.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\win-x64\ucrtbase.dll
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.csprojAssemblyReference.cache
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.AssemblyInfoInputs.cache
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.AssemblyInfo.cs
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.csproj.CoreCompileInputs.cache
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.csproj.CopyComplete
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.dll
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.pdb
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\win-x64\ExportReportToXml.genruntimeconfig.cache

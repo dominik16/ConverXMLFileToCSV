@@ -1,0 +1,246 @@
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.exe
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.deps.json
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.runtimeconfig.json
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.runtimeconfig.dev.json
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.pdb
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.CodeDom.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ComponentModel.Composition.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Data.Odbc.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Data.OleDb.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.DirectoryServices.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.IO.Ports.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Management.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Private.ServiceModel.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Reflection.Context.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Syndication.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Threading.AccessControl.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.csprojAssemblyReference.cache
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.AssemblyInfoInputs.cache
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.AssemblyInfo.cs
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.csproj.CoreCompileInputs.cache
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.csproj.CopyComplete
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.dll
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.pdb
+E:\Euvic\ExportReportToXml\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.genruntimeconfig.cache
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.exe
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.deps.json
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.runtimeconfig.json
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.runtimeconfig.dev.json
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.pdb
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.CodeDom.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ComponentModel.Composition.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Data.Odbc.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Data.OleDb.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.DirectoryServices.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.IO.Ports.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Management.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Private.ServiceModel.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Reflection.Context.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Syndication.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Threading.AccessControl.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+E:\Klon\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.csprojAssemblyReference.cache
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.AssemblyInfoInputs.cache
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.AssemblyInfo.cs
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.csproj.CoreCompileInputs.cache
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.csproj.CopyComplete
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.dll
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.pdb
+E:\Klon\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.genruntimeconfig.cache
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.exe
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.deps.json
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.runtimeconfig.json
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.runtimeconfig.dev.json
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\ExportReportToXml.pdb
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.CodeDom.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ComponentModel.Composition.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Data.Odbc.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Data.OleDb.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.DirectoryServices.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.IO.Ports.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Management.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Private.ServiceModel.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Reflection.Context.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceModel.Syndication.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Threading.AccessControl.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+E:\Euvic 17.08\dombie-net-eksport\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.csprojAssemblyReference.cache
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.AssemblyInfoInputs.cache
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.AssemblyInfo.cs
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.csproj.CoreCompileInputs.cache
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.csproj.CopyComplete
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.dll
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.pdb
+E:\Euvic 17.08\dombie-net-eksport\obj\Release\netcoreapp3.1\ExportReportToXml.genruntimeconfig.cache
